@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { render } from 'react-dom';
-import { bindActionCreators, createStore } from 'redux';
+import { createStore } from 'redux';
 import { connect, Provider } from 'react-redux';
 
 import './styles.scss';
